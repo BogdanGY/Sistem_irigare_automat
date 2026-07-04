@@ -77,4 +77,4 @@ licenta_program.ino
 
 ## Autor
 
-Bogdan Gy
+Bogdan Gyorgy
